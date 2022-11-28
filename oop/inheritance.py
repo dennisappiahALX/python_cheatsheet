@@ -20,4 +20,4 @@ m = Mammal()
 print(m.age)
 print(m.weight)
 
-
+even_numbers = []
